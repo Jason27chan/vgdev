@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7B777C62-3182-9B93-3D04-44F4522D5CFF}") = "Two Hour Jam!", "Assembly-CSharp.csproj", "{CC3E88F1-FB18-E1FE-B3A0-B64350A62C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3E88F1-FB18-E1FE-B3A0-B64350A62C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3E88F1-FB18-E1FE-B3A0-B64350A62C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3E88F1-FB18-E1FE-B3A0-B64350A62C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3E88F1-FB18-E1FE-B3A0-B64350A62C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

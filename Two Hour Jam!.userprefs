@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\SkyDrive\Georgia Tech\VgDev\Spacial-Decay-master\Assets\Scripts\Core\Player.cs">
+    <Files>
+      <File FileName="Assets\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\FlappyBirdControl.cs" Line="29" Column="42" />
+      <File FileName="Assets\PipeControl.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\SkyDrive\Georgia Tech\VgDev\Spacial-Decay-master\Assets\Scripts\Core\Player.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
